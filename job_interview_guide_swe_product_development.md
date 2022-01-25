@@ -7,7 +7,7 @@
 
 ## エンジニア(Product Development)職の採用について
 
-Ubie Discoveryのエンジニア(Product Development)職では、個人の希望や適性に応じて以下の2つのスタンスを選択することができます。
+Ubie Discoveryのエンジニア(Product Development)職では、個人の希望や適性に応じて以下の2つのtypeを選択することができます。
 
 * 専門性に特化したスキルを集中的に発揮いただく「Focus」
 * 組織開発なども含めて幅広く価値を発揮いただく「Holon」
@@ -64,9 +64,11 @@ Focus/Holonともに、スタンス面接 -> プロダクト開発面接 -> 代�
 ### 募集中の職種について
 
 エンジニア(Product Development)以外の募集中の職種については、以下からご確認いただけます。
+
 https://recruit.ubie.life/top
 
 ### Ubieメンバーによる情報発信について
 
 [Ubie Engineers' Blogs](https://blog.ubie.tech/)に、Ubie Discoveryに所属するエンジニアのブログ記事がまとまっています。
+
 [Note](https://note.com/ubie/m/me260d3df472a)には、エンジニア以外のUbieメンバーの情報発信もございます。
