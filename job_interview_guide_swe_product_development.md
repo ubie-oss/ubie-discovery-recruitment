@@ -1,13 +1,13 @@
-# Ubie Discovery エンジニア(Product Development)選考ガイド
+# Ubie Discovery ソフトウェアエンジニア(Product Development)選考ガイド
 
 ## このガイドの目的
 
-このドキュメントは、Ubie Discoveryの[エンジニア(Product Development)](https://recruit.ubie.life/jd_dev/eng_prod)職に興味を持っていただいた方に向けて、選考の流れと観点を説明するものです。
+このドキュメントは、Ubie Discoveryの[ソフトウェアエンジニア(Product Development)](https://recruit.ubie.life/jd_dev/eng_prod)職に興味を持っていただいた方に向けて、選考の流れと観点を説明するものです。
 選考前にUbie Discoveryについて知りたいことがある方は、SNSや[Meety](https://meety.net/articles/t2--w-3hpw-a4shi)などでUbie Discoveryのメンバーにお気軽にお声がけ下さい。また、[カジュアル面談申し込みフォーム](https://recruit.ubie.life/casual-meeting-form)からカジュアル面談をお申し込み頂くこともできますので、ぜひご利用下さい。
 
-## エンジニア(Product Development)職の採用について
+## ソフトウェアエンジニア(Product Development)職の採用について
 
-Ubie Discoveryのエンジニア(Product Development)職では、個人の希望や適性に応じて以下の2つのtypeを選択することができます。
+Ubie Discoveryのソフトウェアエンジニア(Product Development)職では、個人の希望や適性に応じて以下の2つのtypeを選択することができます。
 
 * 専門性に特化したスキルを集中的に発揮いただく「Focus」
 * 組織開発なども含めて幅広く価値を発揮いただく「Holon」
@@ -49,7 +49,7 @@ Ubie Discovery には、「Ubiness」と呼ばれる人材要件があり、「H
 
 Focus/Holonともに、スタンス面接 -> プロダクト開発面接 -> 代表面接 の３つの選考過程がございます。
 
-エンジニア(Product Development)職については、Focus/Holonともに技術力のみの見極めを目的とした面接は行なわず、プロダクト開発面接の中で技術的な観点も含めたプロダクト開発の知見の見極めを行なっています。詳しくはこちらをご覧ください。
+ソフトウェアエンジニア(Product Development)職については、Focus/Holonともに技術力のみの見極めを目的とした面接は行なわず、プロダクト開発面接の中で技術的な観点も含めたプロダクト開発の知見の見極めを行なっています。詳しくはこちらをご覧ください。
 
 [ソフトウェアエンジニア採用で技術面接をやめました](https://note.com/sys1yagi/n/n60d491d7ea58)
 
@@ -63,7 +63,7 @@ Focus/Holonともに、スタンス面接 -> プロダクト開発面接 -> 代�
 
 ### 募集中の職種について
 
-エンジニア(Product Development)以外の募集中の職種については、以下からご確認いただけます。
+ソフトウェアエンジニア(Product Development)以外の募集中の職種については、以下からご確認いただけます。
 
 https://recruit.ubie.life/top
 
