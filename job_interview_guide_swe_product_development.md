@@ -71,4 +71,4 @@ https://recruit.ubie.life/top
 
 [Ubie Engineers' Blogs](https://blog.ubie.tech/)に、Ubie Discoveryに所属するエンジニアのブログ記事がまとまっています。
 
-[Note](https://note.com/ubie/m/me260d3df472a)には、エンジニア以外のUbieメンバーの情報発信もございます。
+[Note](https://note.com/ubie_discovery/)には、エンジニア以外のUbieメンバーの情報発信もございます。
